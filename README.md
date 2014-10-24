@@ -1,4 +1,9 @@
-hello-world
-===========
+import java.util.Scanner;
 
-Just another repository
+class hello_world_github {
+    public static void main(String[] args)
+     {
+      Scanner scan = new Scanner (System.in);
+      int potato = 4
+    }
+}
